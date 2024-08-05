@@ -1,0 +1,12 @@
+.*.swp
+.terraform
+plan.out
+*.tfstate.backup
+/*key
+*private.key
+*service-account-key.json
+*.private_key_encrypted
+.idea
+kubeconfig
+gke_gcloud_auth_plugin_cache
+.vscode*
